@@ -1,3 +1,7 @@
 {
-  "2566899": "2566899-My first shared query.sql"
+  "2566899": "2566899-My first shared query.sql",
+  "2566900": "src/prisma/migrations/20211111223711_init/migration.sql",
+  "2566901": "src/prisma/migrations/20211112234305_added_config_table/migration.sql",
+  "2566902": "src/prisma/migrations/20211113001226_config_table_unique_name/migration.sql",
+  "2566903": "src/prisma/migrations/20211123004316_added_new_character_attributes/migration.sql"
 }
